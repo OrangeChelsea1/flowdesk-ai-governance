@@ -1,0 +1,37 @@
+FLOWDESK AI — HR SERVICE GUIDE
+Version: 1.0
+Organization: FlowDesk Demo Company (Fictional)
+Document Type: Internal Knowledge Base
+Owner: HR Operations
+
+1. PURPOSE
+This fictional policy explains how employees request training reimbursement and ask HR administrative questions.
+
+2. TRAINING REIMBURSEMENT
+Employees may submit an HR Support request for training reimbursement review.
+Required information:
+- Employee name
+- Course or training name
+- Business reason for the training
+- Estimated cost, if known
+- Whether manager endorsement has been obtained
+
+Manager endorsement is required before HR reviews a reimbursement request. Manager endorsement does not guarantee reimbursement approval. HR Operations makes the final determination according to applicable internal procedures. The AI assistant cannot approve a reimbursement or promise payment.
+
+3. EXPENSE POLICY QUESTIONS
+Employees may ask HR about reimbursement procedures. General questions do not require a support ticket unless an employee asks to submit one or needs case-specific assistance.
+This guide does not define reimbursement limits, eligible expense categories, or payment schedules. Do not invent these values.
+
+4. ROUTING
+HR Support requests are routed to the HR Operations Queue.
+
+5. REQUEST STATUS
+New requests are recorded with status New. HR staff review and update status manually.
+
+6. PRIVACY
+Do not request bank account numbers, government identification numbers, medical information, or other sensitive personal records through the AI assistant.
+
+7. LIMITATIONS
+This guide specifies no guaranteed turnaround time. Questions outside its scope require human HR review.
+
+END OF DOCUMENT

@@ -1,0 +1,45 @@
+FLOWDESK AI - IT SUPPORT POLICY
+Version: 1.0
+Organization: FlowDesk Demo Company (Fictional)
+Document Type: Internal Knowledge Base
+Owner: IT Support
+
+1. PURPOSE
+This document defines the fictional company's process for requesting software access and reporting technical issues.
+
+2. SOFTWARE ACCESS REQUESTS
+Employees requiring access to company software must submit an IT Support request.
+
+Required information:
+- Employee name
+- Software or application name
+- Business reason for access
+- Requested access level, if known
+
+Software access requests are reviewed by the IT Support team. Manager approval is required before access is granted. The AI assistant cannot approve or grant access.
+
+3. SYSTEM INCIDENT REPORTING
+Employees experiencing technical problems should submit an IT Support request.
+
+Recommended information:
+- Affected system
+- Description of the problem
+- Approximate time of occurrence
+- Business impact
+- Troubleshooting steps already attempted, if any
+
+Critical system outages affecting multiple employees should be flagged for urgent human review. The AI assistant must not independently declare an incident resolved.
+
+4. ROUTING
+All IT Support requests are routed to the IT Support Queue.
+
+5. REQUEST STATUS
+New requests are initially recorded with status New. IT Support personnel are responsible for subsequent status changes.
+
+6. SECURITY
+Employees must never submit passwords, multifactor authentication codes, or other authentication secrets.
+
+7. LIMITATIONS
+This document does not specify guaranteed response times, automatic access approvals, or system-specific permission rules. Questions not covered here must be referred to IT Support for human clarification.
+
+END OF DOCUMENT

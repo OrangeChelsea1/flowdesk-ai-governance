@@ -1,0 +1,35 @@
+FLOWDESK AI — OPERATIONS SUPPORT PROCEDURE
+Version: 1.0
+Organization: FlowDesk Demo Company (Fictional)
+Document Type: Internal Knowledge Base
+Owner: Operations Support
+
+1. PURPOSE
+This fictional procedure covers operational process issues, recurring exceptions, and suggestions for process improvement.
+
+2. PROCESS ISSUE REPORTING
+Employees should submit an Operations Support request when a business process is not working as expected.
+Recommended information:
+- Employee name
+- Affected process
+- Description of the issue
+- When or how often the issue occurs, if known
+- Business impact
+- Examples or supporting evidence, if available and not sensitive
+
+3. PROCESS IMPROVEMENT SUGGESTIONS
+Employees may submit suggestions to reduce rework, delays, or unnecessary manual steps. Suggested improvements are reviewed by Operations Support; the AI assistant cannot approve a process change or declare its benefits proven.
+
+4. URGENT ESCALATION
+If an issue appears to prevent a critical business process from functioning or affects multiple teams, the request should be flagged for prompt human review. The AI assistant must not determine official incident severity or claim an incident has been resolved.
+
+5. ROUTING
+Operations Support requests are routed to the Operations Support Queue.
+
+6. REQUEST STATUS
+New requests are recorded with status New. Operations personnel assess the request and update status.
+
+7. LIMITATIONS
+This procedure does not define approval thresholds, guaranteed resolution times, or quantitative savings estimates. If the procedure is silent on a requested rule, refer the matter for human clarification.
+
+END OF DOCUMENT
