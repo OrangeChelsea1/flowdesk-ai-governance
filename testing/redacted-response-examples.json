@@ -1,0 +1,36 @@
+{
+  "F05_simulated_backend_failure": {
+    "test_method": "SharePoint static result: Failed / InternalServerError",
+    "respond_to_agent": {
+      "statusCode": 200,
+      "body": {
+        "requestid": "",
+        "executionstatus": "Failed"
+      }
+    },
+    "note": "HTTP 200 is response-action status, not successful creation"
+  },
+  "F06B_valid_input": {
+    "sharepoint_create": {
+      "statusCode": 201,
+      "body": {
+        "ID": 4,
+        "RequestType": "IT Support",
+        "AssignedQueue": "IT Support Queue",
+        "Status": "New"
+      }
+    },
+    "respond_to_agent": {
+      "statusCode": 200,
+      "body": {
+        "requestid": "4",
+        "executionstatus": "Success"
+      }
+    }
+  },
+  "G04_duplicate_baseline": {
+    "first_id": 5,
+    "second_id": 6,
+    "conclusion": "Two identical inputs created two different records; genuine separate events can have identical text"
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "EV-01_it-routing-record.png",
+    "sha256": "3eb38858a87a393d343e534f2fa7a164913ba21e04b68427945876317bcda72d",
+    "dimensions": [
+      2048,
+      1480
+    ]
+  },
+  {
+    "file": "EV-02a_backend-failure.png",
+    "sha256": "30cf31c43c8e57f08b2a1045a5e1902fde9d7b62c5b4476fc32497f8ea26092b",
+    "dimensions": [
+      2048,
+      1007
+    ]
+  },
+  {
+    "file": "EV-02b_response-schema.png",
+    "sha256": "b3e9b993f888da16a52b385f94f069b6b3456ce9702e6660409d8fd6dc06b7ee",
+    "dimensions": [
+      1610,
+      1378
+    ]
+  },
+  {
+    "file": "EV-03a_required-field-compose-true.png",
+    "sha256": "47cc5c2bef23d69bbb2f7e0ae43f1abf946e4c694a9087b17a162f00bea69440",
+    "dimensions": [
+      1710,
+      1234
+    ]
+  },
+  {
+    "file": "EV-03b_create-item-success.png",
+    "sha256": "91e0bbc3837bc1d6d035bbdd20444f5b6e5f46053ed01835628101b258e7e8f1",
+    "dimensions": [
+      2048,
+      1110
+    ]
+  },
+  {
+    "file": "EV-03c_sharepoint-item.png",
+    "sha256": "3eb38858a87a393d343e534f2fa7a164913ba21e04b68427945876317bcda72d",
+    "dimensions": [
+      2048,
+      1480
+    ]
+  },
+  {
+    "file": "EV-04_access-groups.png",
+    "sha256": "ddb4369e0dac8d566cd70d4c347a28cda08181c2b104898c866ccecdcffcc7a5",
+    "dimensions": [
+      2048,
+      1044
+    ]
+  },
+  {
+    "file": "EV-05a_version-settings.png",
+    "sha256": "9e6299f8e910426308cf348c6c44dd9f65164f455b3fb252729fc1fa4a397f53",
+    "dimensions": [
+      2047,
+      1194
+    ]
+  },
+  {
+    "file": "EV-05b_version-history-status-change.png",
+    "sha256": "5c33d55540e62ca0c0c96d66a93ab6e240506644822ba666a91b4c28b728bc75",
+    "dimensions": [
+      2048,
+      1060
+    ]
+  },
+  {
+    "file": "EV-06_workflow-run-history.png",
+    "sha256": "b17d93a3ab58f55c4ff03ed63b3e71c16777f95bee785e85271c3f4f50b8c511",
+    "dimensions": [
+      2048,
+      1078
+    ]
+  },
+  {
+    "file": "EV-07_duplicate-records.png",
+    "sha256": "bbfe7ec3046699e2bd8a81639f87ae919fd89f2df86173180ccdb0684798579f",
+    "dimensions": [
+      2048,
+      346
+    ]
+  }
+]
